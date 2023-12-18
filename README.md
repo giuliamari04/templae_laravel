@@ -56,3 +56,14 @@ $fa-font-path: "../fonts/font-awesome" !default;
 ```
 
 creo cartella partials in resources>scss>partials>_variables.scss
+
+creo nuova repo su github con template
+
+clono la repo su vs
+
+apro terminale 
+```bash
+composer install
+php artisan key:generate
+npm install
+```
