@@ -64,6 +64,9 @@ clono la repo su vs
 apro terminale 
 ```bash
 composer install
+```
+copia file env e rincolla
+```bash
 php artisan key:generate
 npm install
 ```
